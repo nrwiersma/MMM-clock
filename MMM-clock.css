@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap');
+
+.MMM-clock .time {
+    font-family: "Roboto", sans-serif;
+    font-size: 95px;
+    line-height: 95px;
+    letter-spacing: 0;
+}
+
+.MMM-clock .date {
+    color: #ccc;
+}
