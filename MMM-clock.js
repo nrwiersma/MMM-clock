@@ -6,7 +6,7 @@ Module.register("MMM-clock",{
 	// Module config defaults.
 	defaults: {
 		timeFormat: config.timeFormat,
-		dateFormat: "dddd, MMMM d",
+		dateFormat: "dddd, MMMM D",
 		timezone: null,
 	},
 	// Define required scripts.
